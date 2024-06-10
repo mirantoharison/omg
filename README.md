@@ -1,4 +1,4 @@
-# omg
+# omg - Oracle Migration Tool
 A CLI tool for migrating Oracle database to MongoDB
 
 This tool include :
